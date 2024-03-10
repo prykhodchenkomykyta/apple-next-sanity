@@ -15,7 +15,7 @@
     "@types/react-currency-format": "^1.0.0",
     "axios": "^1.2.5",
     "next": "latest",
-    "//next-auth": "^4.18.8",
+    "next-auth": "^4.18.8",
     "next-auth-sanity": "^1.4.4",
     "next-sanity": "^3.1.9",
     "react": "18.2.0",
